@@ -1,3 +1,18 @@
+# It works! 
+
+# Watch indentation and space, super important for communication
+# Everything in a hash should be indented by two spaces.
+# Curly braces for hashes should start on a new line, with their contents indented by two spaces.
+
+[
+  {
+    first_name: "John",
+    last_name: "Foley",
+    email: "john@gschool.it",
+    class: "Beginning snark"
+  }
+]
+
 student_list =
 [{"john" => {
     first_name: "John",
